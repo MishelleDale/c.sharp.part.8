@@ -2,7 +2,7 @@
 
 Console.WriteLine("Введите первое число М");
 int M = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите первое число N");
+Console.WriteLine("Введите второе число N");
 int N = Convert.ToInt32(Console.ReadLine());
 
 int sum = 0; // Переменная для подсчета суммы
